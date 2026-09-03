@@ -1,19 +1,21 @@
 about:
-  description: Recall your SSH sessions (also search your SSH config file)
+  description:
+  |
+    Recall your SSH sessions (also search your SSH config file)
   license: Apache-2.0
   homepage: 
   head: 8d8e7fa
   archived: false
   latestVersion: v0.1.5
-  collectedAt: 2026-09-03T05:10:13Z
+  collectedAt: 2026-09-03T22:38:17Z
 timeline:
   created: 2024-08-26
   lastCommit: 2025-09-23
   lastRelease: 2025-09-23
 popularity:
-  star: 950
+  star: 951
   watcher: 7
-  fork: 36
+  fork: 37
   release: 6
   contributor: 6
   pullRequest: 21
@@ -22,7 +24,7 @@ language:
   Go: 25649
   Shell: 2860
   PowerShell: 2019
-totalLine: 30528
+totalBytes: 30528
 recent:
   last30d:
     since: 2026-08-04
