@@ -5,13 +5,13 @@ about:
   head: 8d8e7fa
   archived: false
   latestVersion: "v0.1.5"
-  collectedAt: 2026-09-07T05:07:34Z
+  collectedAt: 2026-09-07T19:17:10Z
 timeline:
   created: 2024-08-26
   lastCommit: 2025-09-23
   lastRelease: 2025-09-23
 popularity:
-  star: 953
+  star: 954
   watcher: 7
   fork: 37
   release: 6
@@ -81,7 +81,7 @@ total:
   commit: 43
 ---
 path: /home/runner/.x-repo/github.com/byawitz/ggh
-collectedAt: 2026-09-07T05:07:34Z
+collectedAt: 2026-09-07T19:17:10Z
 loc:
   Go:
     code: 995
@@ -112,7 +112,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:07:35+00:00
+  collectedAt: 2026-09-07T19:17:11+00:00
   platform:
     darwin/arm64:
       name:  ggh_darwin_arm64
