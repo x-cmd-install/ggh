@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 3840512,
       "digest": "sha256:4142f4ffd1a32e6cd63d5bd8eedc538c3c644914287d535c37cd6a10d3f4b5ed",
-      "download_count": 126,
+      "download_count": 127,
       "created_at": "2025-09-23T18:26:50Z",
       "updated_at": "2025-09-23T18:26:50Z",
       "browser_download_url": "https://github.com/byawitz/ggh/releases/download/v0.1.5/ggh_windows_x86_64.exe"
