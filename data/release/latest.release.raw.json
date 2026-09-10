@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3423314,
       "digest": "sha256:85f3f6b4cd718bd068a019f49e2fe5a2a0267370f02cfd7d95039930dc86514b",
-      "download_count": 88,
+      "download_count": 89,
       "created_at": "2025-09-23T18:26:51Z",
       "updated_at": "2025-09-23T18:26:51Z",
       "browser_download_url": "https://github.com/byawitz/ggh/releases/download/v0.1.5/ggh_darwin_arm64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3523392,
       "digest": "sha256:cb78cec016770337465731e177396bd35140782e96fa2409b578af07c22e10ad",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2025-09-23T18:26:51Z",
       "updated_at": "2025-09-23T18:26:51Z",
       "browser_download_url": "https://github.com/byawitz/ggh/releases/download/v0.1.5/ggh_darwin_x86_64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3539128,
       "digest": "sha256:aac617d978d4f5cf24aeedc8e214109193fe040664bced092180a3294f4110ed",
-      "download_count": 99,
+      "download_count": 100,
       "created_at": "2025-09-23T18:26:50Z",
       "updated_at": "2025-09-23T18:26:50Z",
       "browser_download_url": "https://github.com/byawitz/ggh/releases/download/v0.1.5/ggh_linux_arm64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3522744,
       "digest": "sha256:c45af8ad9cd4c9f418947923212dfc817d4339fb1b5aeb3c6b83026437c015a1",
-      "download_count": 601,
+      "download_count": 604,
       "created_at": "2025-09-23T18:26:50Z",
       "updated_at": "2025-09-23T18:26:50Z",
       "browser_download_url": "https://github.com/byawitz/ggh/releases/download/v0.1.5/ggh_linux_x86_64"
