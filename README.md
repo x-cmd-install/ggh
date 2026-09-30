@@ -36,22 +36,22 @@ Total: **1,136** lines of code across **23** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 957 · **Forks**: 37 · **Open issues**: 28 · **Contributors**: 6
+- **Stars**: 957 · **Forks**: 39 · **Open issues**: 29 · **Contributors**: 6
 
 ## Totals (cumulative)
 
-- **Releases**: 6 · **Merged PRs**: 13 · **Open PRs**: 6 · **Closed issues**: 8 · **Open issues**: 20 · **Commits**: 43
+- **Releases**: 6 · **Merged PRs**: 13 · **Open PRs**: 7 · **Closed issues**: 8 · **Open issues**: 21 · **Commits**: 43
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-30 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-30 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-01 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-03 | 0 | 0 | 2 | 0 | 4 | 0 |
-| last720d | 2024-10-08 | 1 | 9 | 6 | 4 | 19 | 18 |
+| 30d | 2026-08-31 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last60d | 2026-08-01 | 0 | 0 | 1 | 0 | 1 | 0 |
+| 90d | 2026-07-02 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last180d | 2026-04-03 | 0 | 0 | 1 | 0 | 1 | 0 |
+| 360d | 2025-10-05 | 0 | 0 | 3 | 0 | 5 | 0 |
+| last720d | 2024-10-10 | 1 | 9 | 7 | 4 | 20 | 18 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for ggh lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T05:48:44Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T05:58:42Z._
